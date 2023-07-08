@@ -1,0 +1,5 @@
+./ChromeExtension/node_modules/
+
+/ChromeExtension/dist/
+
+/ChromeExtension/build/
